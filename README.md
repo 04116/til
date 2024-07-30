@@ -1,2 +1,2 @@
-# til - today I learn
+# til - today I learned
 ... quick catch-up, incomplete
